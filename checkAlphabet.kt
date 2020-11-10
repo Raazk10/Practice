@@ -8,6 +8,6 @@ fun main() {
 */
     when {
         (ch in 'a'..'z' || ch in 'A'..'Z') -> println("Is alphabet")
-        else-> println("Not alphabet")
+        else-> println("this is not alphabet")
     }
 }
